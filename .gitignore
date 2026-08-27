@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.cache/
+.matplotlib_cache*/
+outputs/*
+!outputs/.gitkeep
+*.log
+*.tmp
+*.zip
