@@ -1,0 +1,20 @@
+{
+  "manuscript_status": "under_review",
+  "notebook": "notebooks/MUFASA_Public_Release.ipynb",
+  "data_files_in_this_package": [
+    "Daegu_2016_2020_complete.csv",
+    "Daejeon_2016_2020_complete.csv",
+    "Gwangju_2016_2020_complete.csv",
+    "Incheon_2016_2020_complete.csv",
+    "Seoul_2016_2020_complete.csv"
+  ],
+  "expected_paper_sites": [
+    "Busan",
+    "Daegu",
+    "Daejeon",
+    "Gwangju",
+    "Incheon",
+    "Seoul"
+  ],
+  "note": "Add the Busan CSV before a complete six-site paper-mode run."
+}
